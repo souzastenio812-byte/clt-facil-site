@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://souzastenio812-byte.github.io/clt-facil-site/sitemap.xml
